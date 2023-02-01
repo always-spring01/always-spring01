@@ -23,7 +23,7 @@
 ---
 <div align="center">
   <h3><b>📚 Tech 📚</b></h3>
-    <h3>✨ Platforms & Languages ✨<h3>
+    <h4>✨ Platforms & Languages ✨</h4>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <br>
@@ -39,7 +39,7 @@
 </div>
 <br>
 <div align="center">
-    <h3>🛠 Using Tools 🛠<h3>
+    <h4>🛠 Using Tools 🛠</h4>
       <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
       <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
@@ -52,14 +52,14 @@
 </div>
 <br>
 <div align="center">
-    <h3>📷 SNS & Portfolio 📷<h3>
+    <h4>📷 SNS & Portfolio 📷</h4>
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHub Pages&logoColor=white"/>
 </div>
 <br>
 <div align="center">
-    <h3>💻 Development Equipment 💻</h3>
+    <h4>💻 Development Equipment 💻</h4>
       <img src="https://img.shields.io/badge/ThinkPad T490s-EE2624?style=flat-square&logo=ThinkPad&logoColor=white"/>
       <img src="https://img.shields.io/badge/MacBook Pro 14(M1pro)-000000?style=flat-square&logo=Apple&logoColor=white"/>
 </div>
