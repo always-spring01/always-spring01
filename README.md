@@ -30,6 +30,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
       <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> <br>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
       <img src="https://img.shields.io/badge/Windows-007BD4?style=flat-square&logo=Windows 11&logoColor=white"/>
