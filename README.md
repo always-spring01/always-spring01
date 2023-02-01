@@ -4,7 +4,7 @@
 
 ---
 <div align="center">
-  <h2><b>🚀 꾸준하게 성장하는 개발자 🚀</b></h2>
+  <h3><b>🚀 꾸준하게 성장하는 개발자 🚀</b></h3>
   <a href="https://github.com/always-spring01/always-spring01/blob/main/README.md">
     <img src="https://img.shields.io/badge/Readme-181717?style=flat-square&logo=ReadMe&logoColor=white"/>
   </a>
@@ -22,7 +22,7 @@
 
 ---
 <div align="center">
-  <h2><b>📚 Tech 📚</b></h2>
+  <h3><b>📚 Tech 📚</b></h3>
     <h3>✨ Platforms & Languages ✨<h3>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
