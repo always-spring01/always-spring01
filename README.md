@@ -18,7 +18,7 @@
 
 💡 언제든지 **코드 리뷰, 잘못된 코드 수정 요청, 의문사항 제시**는 환영입니다.
 
-💡 **개인 홈페이지, 인스타그램** 주소가 하단에 있습니다. 이 곳에서 저의 일상, 자세한 프로젝트 정리를 볼 수 있습니다.
+💡 **개인 홈페이지, 인스타그램** 주소가 하단에 있습니다. 이 곳에서 저의 일상, 자세한 프로젝트 정리를 볼 수 있습니다. (개인 블로그의 경우 개설 중이기에 현재 연결이 어렵습니다)
 
 ---
 <div align="center">
@@ -54,8 +54,12 @@
 <br>
 <div align="center">
     <h4>📷 SNS & Portfolio 📷</h4>
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+      <a href="https://www.instagram.com/always_spring01/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+      </a>
+      <a href="https://github.com/always-spring01">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+      </a>
       <img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHub Pages&logoColor=white"/>
 </div>
 <br>
