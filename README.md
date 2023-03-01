@@ -66,6 +66,6 @@
 <div align="center">
     <h4>💻 Development Equipment 💻</h4>
       <img src="https://img.shields.io/badge/ThinkPad T490s-EE2624?style=flat-square&logo=ThinkPad&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MacBook Pro 14(M1pro)-000000?style=flat-square&logo=Apple&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Samsung Galaxy Book Pro3-1428A0?style=flat-square&logo=Samsung&logoColor=white"/>
 </div>
 
