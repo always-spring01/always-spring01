@@ -1,9 +1,9 @@
 ## Always-spring01
 **항상, 봄.**<br>
 *2024.02 교통사고로 인해 현재 일상생활 불가능합니다.*
-<center> <h3><b>🛠️Languages🛠️</b></h3> </center>
+<div align=center> <h3><b>🛠️Languages🛠️</b></h3> </div>
 
-<div style="text-align: center">
+<div align=center>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
@@ -11,9 +11,9 @@
 <img src="https://img.shields.io/badge/markdown-000000?style=flat&logo=markdown&logoColor=white">
 </div>
 
-<center> <h3><b>🛠️Packages🛠️</b></h3> </center>
+<div align=center> <h3><b>🛠️Packages🛠️</b></h3> </div>
 
-<div style="text-align: center">
+<div align=center>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white">
 <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white">
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
@@ -22,9 +22,9 @@
 <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white">
 </div>
 
-<center> <h3><b>🛠️Environment🛠️</b></h3> </center>
+<div align=center> <h3><b>🛠️Environment🛠️</b></h3> </div>
 
-<div style="text-align: center">
+<div align=center>
 <img src="https://img.shields.io/badge/Windows11-0078D4?style=flat&logo=windows11&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
@@ -33,9 +33,9 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 </div>
 
-<center> <h3><b>🛠️Tools🛠️</b></h3> </center>
+<div align=center> <h3><b>🛠️Tools🛠️</b></h3> </div>
 
-<div style="text-align: center">
+<div align=center>
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white">
 <img src="https://img.shields.io/badge/zoom-0B5Cff?style=flat&logo=zoom&logoColor=white">
