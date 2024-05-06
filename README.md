@@ -59,6 +59,6 @@
 🍀**진행한 프로젝트...**
 > 👉 [C++ 언어를 이용한 Snake Game](https://github.com/always-spring01/Cpp_snake_game)<br>
 👉 [소켓통신을 응용한 간단한 채팅 프로그램](https://github.com/always-spring01/SNS_Chat-Program)<br>
-👉 ~~[중복성 데이터 제거](https://github.com/always-spring01/Data_Deduplication_Model)~~
+👉 [중복성 데이터 제거](https://github.com/always-spring01/Data_Deduplication_Model)<br>
 ---
 🍀**봐주셔서 감사합니다. 좋은 하루 보내세요!**
